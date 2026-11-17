@@ -1,0 +1,10 @@
+[
+  {
+    "issuer": "https://idp-alpha.example/",
+    "secret_hex": "c0a768a45f8a91197749dbf91e116b6f52b0293a855d8a9e5aa610264b6de987"
+  },
+  {
+    "issuer": "https://idp-bravo.example/",
+    "secret_hex": "cf43ce3e40f6e007f267b1347841b7c55d8a6b63d5e2a0dd4adc25adc3f13fc8"
+  }
+]
